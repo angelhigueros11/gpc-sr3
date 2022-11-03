@@ -1,6 +1,6 @@
 # Graficas por computador
 # Angel Higueros - 20460
-# SR2
+# SR3
 
 from re import A
 import struct
